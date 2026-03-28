@@ -5,10 +5,10 @@
 
 ## 📂 Repository Structure
 * **task-1-presentation/**: Digital Literacy Infographic (Canva).
-* [cite_start]**task-2-portfolio/**: Professional profiles on GitHub, LinkedIn, and Kaggle[cite: 17, 18].
-* [cite_start]**task-3-platforms/**: HackerRank success and Google Forms collaboration[cite: 27, 31].
-* [cite_start]**task-4-email-etiquette/**: Professional email drafts and social media checklist[cite: 38, 41].
-* [cite_start]**task-5-cybercrime/**: F-35 Aerospace Case Study and Safety Checklist[cite: 46, 49].
+* **task-2-portfolio/**: Professional profiles on GitHub, LinkedIn, and Kaggle
+* **task-3-platforms/**: HackerRank success and Google Forms collaboration
+* **task-4-email-etiquette/**: Professional email drafts and social media checklist
+* **task-5-cybercrime/**: F-35 Aerospace Case Study and Safety Checklist
 * **report/**: Final Project Report (PDF).
 
 ## 🔗 Quick Links
